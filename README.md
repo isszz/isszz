@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://github.com/isszz/isszz">
+<a href="https://github.com/isszz">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=isszz&show_icons=true" />
 </a>
 <p><br /></p>
