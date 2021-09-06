@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=isszz&show_icons=true"/>
+<a href="https://github.com/isszz/isszz">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isszz&show_icons=true" />
+</a>
 <p><br /></p>
 
 - 🚶‍♂️ I'm a full stack software engineer.
