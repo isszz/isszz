@@ -7,4 +7,17 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isszz&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isszz&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/isszz/isszz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/isszz/isszz/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/isszz/isszz/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/isszz/isszz/output/github-contribution-grid-snake.svg"
+  />
+</picture>
