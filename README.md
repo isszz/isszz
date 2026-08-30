@@ -7,6 +7,18 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api?username=isszz&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isszz&layout=compact&hide_border=true&theme=transparent" /></a> |
 | ------------- | ------------- |
 
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/isszz/isszz/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/isszz/isszz/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/isszz/isszz/tree/output/github-snake.svg" />
+</picture>
+
+
+
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
